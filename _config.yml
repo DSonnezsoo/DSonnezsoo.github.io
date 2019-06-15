@@ -1,6 +1,6 @@
 # Site settings
 title: DS Blog
-SEOTitle: 丁帅的博客 | DS Blog
+SEOTitle: 丁帅的博客
 header-img: img/post-bg-desk.jpg
 email: dingshuai611@gmail.com
 description: "Every failure is leading towards success."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/DSonnezsoo/dsonnezsoo.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar_m     # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar: /img/avatar_m     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
