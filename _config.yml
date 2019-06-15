@@ -1,6 +1,6 @@
 # Site settings
 title: DS Blog
-SEOTitle: 柏荧的博客 | DS Blog
+SEOTitle: 丁帅的博客 | DS Blog
 header-img: img/post-bg-desk.jpg
 email: dingshuai611@gmail.com
 description: "Every failure is leading towards success."
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: dsonnezsoo.github.io    #仓库名称
+  owner: dsonnezsoo    #github用户名
+  admin: dsonnezsoo
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
